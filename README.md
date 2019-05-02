@@ -15,3 +15,7 @@ This repository contains 3 folders:
     THis folder contain all the matlab code to output the characters of the licence plate. 
     It's more effective with a plate extracted from a picture with the segmentation part of the project.
     Here also, a report, as a pdf file, is explaining the algorithm and analyzing the overall results.
+
+    >SimpleGrayScale_segmentation
+    This folder contain a basic segmentation process that can be use as an introduction to the whole project. 
+    The report regarding this part is included in th "LicencePlate_segmentation" part's report (pdf).
