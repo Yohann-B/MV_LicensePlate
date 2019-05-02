@@ -9,7 +9,6 @@ This repository contains 3 folders:
     >LicencePlate_segmentation
     This folder contains all the matlab code to output a picture containing the area where the plate is.
     This folder contain a report about this part, explaining the segmentation, explaining the algorithm and analyzing the results.
-    This pdf is also grouping the "simple segmentation" project's part.
     
     >LicencePlate_recognition
     THis folder contain all the matlab code to output the characters of the licence plate. 
@@ -18,4 +17,4 @@ This repository contains 3 folders:
 
     >SimpleGrayScale_segmentation
     This folder contain a basic segmentation process that can be use as an introduction to the whole project. 
-    The report regarding this part is included in th "LicencePlate_segmentation" part's report (pdf).
+    A report, as a pdf file, is explaining the basic principle, the objectives and the methods used.
